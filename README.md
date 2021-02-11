@@ -13,7 +13,7 @@ This work was done using two programming languages: MATLAB and Python 3.
 For the MATLAB part we used `MATLAB R2020a`.
 
 ## Python 3
-There are two requirement files available in the `python/` directory, one created with `conda`, and the other with `pip`. `conda 4.9.2` was primarily used to create this environment from a `python 3.8.5` base environment on a linux `Ubuntu 20.04 LTS` system.
+There are two requirement files available in the `python/requirements/` directory, one created with `conda`, and the other with `pip`. `conda 4.9.2` was primarily used to create this environment from a `python 3.8.5` base environment on a linux `Ubuntu 20.04 LTS` system.
 
 ***IMPORTANT:*** This environment setup is **not** minimal, but it is an evolving setup, which will hopefully allow for re-running all the python code. We initially started development in Jupyter notebooks, however, we later ported to individual python scripts in Pycharm.
 

@@ -1,7 +1,7 @@
 # What is this?
 Prototype code used in the paper "_Classification of Hemodynamics Scenarios from a Public Radar Dataset using a Deep Learning Approach_" by _Slapničar_, _Wang_ and _Luštrek_ (currently submitted to Sensors journal and is subject to review).
 
-This code has a heavy research/experimental focus and as such might contain some bugs and is not completely optimized. It is more result rather than production oriented. For any questions, please contact gasper [dot] slapnicar [at] ijs [dot] si.
+This code has a heavy research/experimental focus and as such might contain some bugs and is not completely optimized. It is more result rather than production oriented. For any questions, please contact _gasper [dot] slapnicar [at] ijs [dot] si_.
 
 # Dataset
 This code relies on a publicly available dataset described [here](https://www.nature.com/articles/s41597-020-00629-5). It contains labelled contact sensor data alongside radar data, which are all labelled with 5 possible scenarios: Valsalva maneuver, Apnea simulation, Tilt up and Tilt down movements (on a tilting table) and Resting. It totals 24h worth of signals coming from 30 subjects.

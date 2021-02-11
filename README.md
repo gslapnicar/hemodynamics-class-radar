@@ -1,5 +1,5 @@
 # What is this?
-Prototype code used in the paper "Classification of Hemodynamics Scenarios from a Public RadarDataset using a Deep Learning Approach" by Slapničar, Wang and Luštrek (currently submitted to Sensors journal and is subject to review).
+Prototype code used in the paper "_Classification of Hemodynamics Scenarios from a Public RadarDataset using a Deep Learning Approach_" by _Slapničar_, _Wang_ and _Luštrek_ (currently submitted to Sensors journal and is subject to review).
 
 This code has a heavy research/experimental focus and as such might contain some bugs and is not completely optimized. It is more result rather than production oriented.
 
